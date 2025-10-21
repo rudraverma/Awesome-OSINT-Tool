@@ -1,4 +1,4 @@
-# 🛰 Legendary OSINT
+# 🛰 Awesome OSINT
 
 A curated list of **OSINT** tools & resources.  
 The sources where I got this from include newsletters, Telegram groups, curated startpages, GitHub repos, and other public collections.  
